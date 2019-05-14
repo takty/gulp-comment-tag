@@ -1,0 +1,21 @@
+{
+	"name": "gulp-comment-tag",
+	"version": "1.0.0",
+	"description": "Switch comments by tags",
+	"scripts": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/takty/gulp-comment-tag.git"
+	},
+	"author": "Takuto Yanagida",
+	"license": "MIT",
+	"homepage": "https://github.com/takty/gulp-comment-tag#readme",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"plugin-error": "^1.0.1",
+		"through2": "^3.0.1"
+	}
+}
